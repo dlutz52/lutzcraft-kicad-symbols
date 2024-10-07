@@ -1,0 +1,247 @@
+(footprint "PTS810SJG250SMTRLFS"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "<b>pts810</b><br>")
+	(property "Reference" "REF**"
+		(at -0.25 0 0)
+		(layer "F.SilkS")
+		(uuid "3bf86790-9a13-4ec5-9955-b73a5be910df")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PTS810SJG250SMTRLFS"
+		(at -0.25 0 0)
+		(layer "F.Fab")
+		(uuid "948380e1-3d4f-4b0b-9dd7-03542ffc826d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "663cb27e-72d5-4220-92c1-a2b4f54a9230")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "392ba6ca-afda-4b78-9223-0f13c604798e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c505e7a2-1863-4b9f-ab32-7a475298b716")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3 -1.2)
+		(end -3 -1.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a8820a94-06f0-4033-b929-65731f5599f4")
+	)
+	(fp_line
+		(start -3 -1)
+		(end -3 -1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "22ef57a9-c248-45b1-a35d-bdab16c4125b")
+	)
+	(fp_line
+		(start -2.1 -1.6)
+		(end 2.075 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4e7a5ad4-5c2b-47a7-9059-6c2ec491b799")
+	)
+	(fp_line
+		(start -2.1 1.6)
+		(end 2.075 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7edd12e4-f626-45b9-abb7-921422660c76")
+	)
+	(fp_arc
+		(start -3 -1.2)
+		(mid -2.9 -1.1)
+		(end -3 -1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b7ed1d7f-40a7-4d5d-a956-b71f16dc340c")
+	)
+	(fp_arc
+		(start -3 -1)
+		(mid -3.1 -1.1)
+		(end -3 -1.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bd477f7a-f01c-40db-85d5-3c67045f2ea5")
+	)
+	(fp_line
+		(start -4.1 -2.6)
+		(end 3.6 -2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3fccad0f-df6e-4daf-b171-70985d660c9a")
+	)
+	(fp_line
+		(start -4.1 2.6)
+		(end -4.1 -2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0a93920e-1741-4995-ae51-099debcbb474")
+	)
+	(fp_line
+		(start -2.1 -1.6)
+		(end 2.1 -1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "af29abd8-9a26-4c5b-a490-c3245dac994d")
+	)
+	(fp_line
+		(start -2.1 1.6)
+		(end -2.1 -1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fe803a62-00de-4686-9393-f986b583fb4c")
+	)
+	(fp_line
+		(start 2.1 -1.6)
+		(end 2.1 1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "35f428b7-cac1-4d8e-a81c-3e906ed6f069")
+	)
+	(fp_line
+		(start 2.1 1.6)
+		(end -2.1 1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "97df9a1a-6556-4454-9bea-a9846f46d7af")
+	)
+	(fp_line
+		(start 3.6 -2.6)
+		(end 3.6 2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "623d825a-768f-4d85-ab5a-88e21c86db41")
+	)
+	(fp_line
+		(start 3.6 2.6)
+		(end -4.1 2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "61cb5cfe-4e1b-4090-8916-ab596b3b9cfc")
+	)
+	(pad "1" smd rect
+		(at -2.075 -1.075)
+		(size 1.05 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "3c1bab3b-3fda-44d6-bbb3-4252ca27d1d9")
+	)
+	(pad "2" smd rect
+		(at 2.075 -1.075)
+		(size 1.05 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "cbd1483b-b0f1-4c94-83fe-3fd21a8eff2e")
+	)
+	(pad "3" smd rect
+		(at -2.075 1.075)
+		(size 1.05 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "f881de15-7e38-4f67-aecc-7dd74a6b5956")
+	)
+	(pad "4" smd rect
+		(at 2.075 1.075)
+		(size 1.05 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "1ef01ae0-1abf-4a23-a4c1-19582e136b43")
+	)
+	(model "${LUTZCRAFT_LIBS}/3dmodels/PTS810SJK250SMTRLFS.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
