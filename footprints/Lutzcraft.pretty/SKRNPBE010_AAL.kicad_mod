@@ -1,0 +1,336 @@
+(footprint "SKRNPBE010_AAL"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(tags "SKRNPBE010 ")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "8dfa9339-3225-407f-a92a-ac29f499b109")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SKRNPBE010_AAL"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "50f5d028-9c5d-4e17-a14a-b06f25ba2b85")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Lutzcraft:SKRNPBE010_AAL"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "86004904-d9df-4c45-b446-575c3e323401")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://tech.alpsalpine.com/e/products/detail/SKRNPBE010/"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cc03236d-e2fd-4343-85b9-9de7d817a159")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Tactile Switch DPST-NO Top Actuated Surface Mount"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e3c9eb5a-399c-405c-8c14-32d38034f653")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Part Number" "SKRNPBE010"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "309b186b-c929-46ae-8b69-f48275821272")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Mfg'er" "Als Alpine"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "a74ed9dd-eb26-40ab-92bc-f70bb3d1ff34")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center -4.9022 -2.250001)
+		(end -4.5212 -2.250001)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(fill none)
+		(layer "B.SilkS")
+		(uuid "db5ec9cb-83a1-434f-9c5c-522b9951ce59")
+	)
+	(fp_line
+		(start -3.1242 -1.421961)
+		(end -3.1242 1.421961)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fe3934b7-aa74-45e4-9444-8744cfec0a65")
+	)
+	(fp_line
+		(start -3.1242 3.1242)
+		(end -0.82804 3.1242)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a5a1dace-20d0-44d4-862a-34cab8cf921b")
+	)
+	(fp_line
+		(start -0.82804 -3.1242)
+		(end -3.1242 -3.1242)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "39690838-0d99-4396-9aeb-4ed651229b2a")
+	)
+	(fp_line
+		(start 0.82804 3.1242)
+		(end 3.1242 3.1242)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "067f1559-9304-4b77-ae6a-93b91cdda56b")
+	)
+	(fp_line
+		(start 3.1242 -3.1242)
+		(end 0.82804 -3.1242)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "18465c61-c81e-4af7-a965-50e0fa1d09d4")
+	)
+	(fp_line
+		(start 3.1242 1.421961)
+		(end 3.1242 -1.421961)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "87715a87-249e-4564-b5f3-6cba12c7222a")
+	)
+	(fp_circle
+		(center -4.9022 -2.250001)
+		(end -4.5212 -2.250001)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "cb05716e-ec7f-4087-85cd-702215f1ed28")
+	)
+	(fp_line
+		(start -3.750102 -3.659599)
+		(end -3.750102 3.659599)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0619e69a-7b92-4d4e-b6fe-b6aa82daaf09")
+	)
+	(fp_line
+		(start -3.750102 3.659599)
+		(end 3.750102 3.659599)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a4ac02e1-ed95-48e1-b301-1a936c5a8a28")
+	)
+	(fp_line
+		(start 3.750102 -3.659599)
+		(end -3.750102 -3.659599)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5d73ef53-cea5-47ed-8fd9-dbbac5ca8db1")
+	)
+	(fp_line
+		(start 3.750102 3.659599)
+		(end 3.750102 -3.659599)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e9d7955c-bcd4-4a3f-a784-762fbfb9f051")
+	)
+	(fp_line
+		(start -2.9972 -2.9972)
+		(end -2.9972 2.9972)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c0bd8dc1-0f94-4348-8164-04eb118499b2")
+	)
+	(fp_line
+		(start -2.9972 2.9972)
+		(end 2.9972 2.9972)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "21283f17-5cf1-4e2d-9690-9471b155cd43")
+	)
+	(fp_line
+		(start 2.9972 -2.9972)
+		(end -2.9972 -2.9972)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3b0a6196-cf11-4539-af6d-793387a086de")
+	)
+	(fp_line
+		(start 2.9972 2.9972)
+		(end 2.9972 -2.9972)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a777682d-395a-4701-9e27-77ec35a45e80")
+	)
+	(fp_circle
+		(center -2.949999 -4.155001)
+		(end -2.568999 -4.155001)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "46888bda-c05a-40c6-af18-afd839b2d905")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "e95f1f90-46fb-43f4-8b79-7f69e6ae16a2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at -0.6 -1.25)
+		(size 0.762 0.762)
+		(drill 0.762)
+		(layers)
+		(uuid "caed64a6-fedb-424f-931c-bfee7b98163e")
+	)
+	(pad "" np_thru_hole circle
+		(at -0.6 1.45)
+		(size 0.9398 0.9398)
+		(drill 0.9398)
+		(layers)
+		(uuid "2ee8b2b1-a4bc-4d31-b6ae-fe0b49b00e21")
+	)
+	(pad "1" smd rect
+		(at -2.949999 -2.250001)
+		(size 1.0922 0.9906)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "3cfdab6b-3ff1-4875-abee-ddaa1fea3f76")
+	)
+	(pad "2" smd rect
+		(at 2.949999 -2.250001)
+		(size 1.0922 0.9906)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "51ed9ad8-675b-420f-95cd-3f34f49c92c1")
+	)
+	(pad "3" smd rect
+		(at -2.949999 2.250001)
+		(size 1.0922 0.9906)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "4c8ff59f-fd53-47ea-8b1b-071eec0e95c3")
+	)
+	(pad "4" smd rect
+		(at 2.949999 2.250001)
+		(size 1.0922 0.9906)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "b8da5cdb-dd17-4c26-bf31-eb87bbc00ca3")
+	)
+	(pad "5" smd rect
+		(at 0 -3.049999)
+		(size 0.9906 0.7112)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "70dede98-da7b-42de-a621-abcc3cad1016")
+	)
+	(pad "6" smd rect
+		(at 0 3.049999)
+		(size 0.9906 0.7112)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "7a5b9e68-76f1-4fe2-9a0e-d933bcad1aae")
+	)
+	(model "${LUTZCRAFT_LIBS}/3dmodels/SKRNPB.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
