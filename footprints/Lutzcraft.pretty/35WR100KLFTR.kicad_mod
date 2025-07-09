@@ -1,0 +1,261 @@
+(footprint "35WR100KLFTR"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "35W")
+	(tags "Variable Resistor")
+	(property "Reference" "VR**"
+		(at -0.163 0 0)
+		(layer "F.SilkS")
+		(uuid "c1e228ee-2254-491c-b708-65082252bcaa")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "35WR100KLFTR"
+		(at -0.163 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "f61fb7f7-253c-45c1-8bb8-dd8b4034417c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "417e1296-bc2b-4bc2-a8b6-c5491ddb08e3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e61aa21b-59e3-4f7e-bbd1-d1af6207cbbf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.6 -1.1)
+		(end -2.6 -1.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3e058d5c-c454-4ab2-9907-a1390e868f39")
+	)
+	(fp_line
+		(start -2.6 -0.9)
+		(end -2.6 -0.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fe022aad-9a24-41b2-983e-a0d32df98bcc")
+	)
+	(fp_line
+		(start -1.5 -0.2)
+		(end -1.5 0.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cda4660d-1093-4e19-bc30-cc9dd06d3584")
+	)
+	(fp_line
+		(start -0.8 -1.5)
+		(end 1.5 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "72cc9d28-be71-43ab-b07a-d7ae4725ad51")
+	)
+	(fp_line
+		(start -0.8 1.5)
+		(end 1.5 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8ed19603-3e83-4ce0-bb12-9efad8d87dea")
+	)
+	(fp_line
+		(start 1.5 -1.5)
+		(end 1.5 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c493e7f7-9b63-4260-b383-c3a2780c5b40")
+	)
+	(fp_line
+		(start 1.5 1.5)
+		(end 1.5 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b8a47e26-6a02-4eb7-80ef-ba1a99e33bbc")
+	)
+	(fp_arc
+		(start -2.6 -1.1)
+		(mid -2.5 -1)
+		(end -2.6 -0.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6f05ca47-7a33-4d48-8a03-6937595a9faf")
+	)
+	(fp_arc
+		(start -2.6 -0.9)
+		(mid -2.7 -1)
+		(end -2.6 -1.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "72837fe7-731a-4776-929d-f580fce2e6f1")
+	)
+	(fp_line
+		(start -3.2 -2.1)
+		(end 2.875 -2.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "566d6b40-96bf-40cf-a110-1b9990a548f5")
+	)
+	(fp_line
+		(start -3.2 2.1)
+		(end -3.2 -2.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "01a52138-a520-4921-af59-8404c0f15007")
+	)
+	(fp_line
+		(start -1.5 -1.5)
+		(end 1.5 -1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "6b202732-60db-4788-8a84-2e3bcf2bbf25")
+	)
+	(fp_line
+		(start -1.5 1.5)
+		(end -1.5 -1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "9e42c6b2-7e59-4efe-8600-e40f36032f10")
+	)
+	(fp_line
+		(start 1.5 -1.5)
+		(end 1.5 1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "a2b59723-ecff-4abe-903b-3d409a1948ca")
+	)
+	(fp_line
+		(start 1.5 1.5)
+		(end -1.5 1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "a4c2083b-a933-4984-83f4-5978691af2e7")
+	)
+	(fp_line
+		(start 2.875 -2.1)
+		(end 2.875 2.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "5d3c8200-8904-483e-9c17-14ab4ec141ad")
+	)
+	(fp_line
+		(start 2.875 2.1)
+		(end -3.2 2.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "300ccd76-137f-47ba-a646-db4a3b79e233")
+	)
+	(pad "1" smd rect
+		(at -1.625 -1 90)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "fbaf6d1c-53fe-4873-bf1a-40b63cbd1c72")
+	)
+	(pad "2" smd rect
+		(at 1.625 0)
+		(size 1.5 1.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "c9511c5f-314c-4111-8e5e-9035528e6469")
+	)
+	(pad "3" smd rect
+		(at -1.625 1 90)
+		(size 1.2 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "ff07704a-03cc-4436-ac84-1f0f2f7c5624")
+	)
+	(embedded_fonts no)
+	(model "${LUTZCRAFT_LIBS}/3dmodels/35WR100KLFTR.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 90)
+		)
+	)
+)

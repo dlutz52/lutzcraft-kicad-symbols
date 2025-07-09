@@ -1,0 +1,159 @@
+(footprint "FBMJ2125HM330-T"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.46 -1.32 0)
+		(layer "F.SilkS")
+		(uuid "d267b27e-63eb-42b1-a31f-96ffac6f1676")
+		(effects
+			(font
+				(size 0.393701 0.393701)
+				(thickness 0.098425)
+			)
+		)
+	)
+	(property "Value" "BEADC2012X105N"
+		(at 1.79 1.32 0)
+		(layer "F.Fab")
+		(uuid "facbb5e9-59d0-480a-9c0b-9592ad825e21")
+		(effects
+			(font
+				(size 0.393701 0.393701)
+				(thickness 0.098425)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4ce37db8-bbe3-4e65-a269-c1b17249805c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d993b121-8c2e-4d7b-9884-9d0f622da45a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.708 -0.983)
+		(end 1.708 -0.983)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "95dfeeca-4a09-41e0-8cc3-2fe151e62411")
+	)
+	(fp_line
+		(start -1.708 0.983)
+		(end -1.708 -0.983)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ba7b9fa9-5b76-4602-9959-3fc75653b403")
+	)
+	(fp_line
+		(start -1.708 0.983)
+		(end 1.708 0.983)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3bae123a-fa84-4e7e-90bd-63946f88bb7c")
+	)
+	(fp_line
+		(start 1.708 0.983)
+		(end 1.708 -0.983)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "91c6d4ce-64ba-4b04-bf7e-8d823801bcad")
+	)
+	(fp_line
+		(start -1.1 0.72)
+		(end -1.1 -0.72)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ac9947f1-4b03-4f7d-b13c-090352ee36ae")
+	)
+	(fp_line
+		(start 1.1 -0.72)
+		(end -1.1 -0.72)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2989044e-6109-475e-b283-c9aaa94b3984")
+	)
+	(fp_line
+		(start 1.1 0.72)
+		(end -1.1 0.72)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7c6e4f96-f092-41b5-b360-4d8d4992f844")
+	)
+	(fp_line
+		(start 1.1 0.72)
+		(end 1.1 -0.72)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "70fe4d39-8dd0-403e-8b3c-d7f3713476be")
+	)
+	(pad "1" smd rect
+		(at -0.86 0)
+		(size 1.2 1.47)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "04988002-7e49-48fb-9e29-07ce786c4981")
+	)
+	(pad "2" smd rect
+		(at 0.86 0)
+		(size 1.2 1.47)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "95b43eea-4e8b-42ae-878b-4305e59e1001")
+	)
+	(embedded_fonts no)
+	(model "${LUTZCRAFT_LIBS}/3dmodels/FBMJ2125HM330-T.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

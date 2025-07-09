@@ -1,0 +1,174 @@
+(footprint "VREG_LM1117MPX-3.3"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Power Management IC’s LM117MPX-3.3/NOPB")
+	(property "Reference" "REF**"
+		(at -0.025 -4.754 0)
+		(layer "F.SilkS")
+		(uuid "0a8cae0f-9de1-4e06-978c-4f914e37f690")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "VREG_LM1117MPX-3.3"
+		(at 8.23 4.365 0)
+		(layer "F.Fab")
+		(uuid "f4927f2e-89ff-44b2-ab88-c18591569771")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cfe1c6e5-8a1b-4eab-a50e-7e860468a6cf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c6947971-3028-4e64-9246-25e9dbca2d86")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.75 -3.25)
+		(end 1.75 -3.25)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d7d73721-5a69-497a-b5ec-0dd76ae7c211")
+	)
+	(fp_line
+		(start -1.75 3.25)
+		(end 1.75 3.25)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "32a66844-fd09-4ba9-abf4-d15cb3b952ae")
+	)
+	(fp_line
+		(start 1.75 -3.25)
+		(end 1.75 -2.01)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f4c5272b-75b2-433d-9958-cf337f7ad37d")
+	)
+	(fp_line
+		(start 1.75 3.25)
+		(end 1.75 2.01)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4a8d8f95-956b-42ee-b607-1deef68a0477")
+	)
+	(fp_line
+		(start -1.75 -3.25)
+		(end -1.75 3.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "af18c8a3-66fc-436f-863e-1650cd5bd28d")
+	)
+	(fp_line
+		(start 1.75 -3.25)
+		(end -1.75 -3.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1ccd9261-d31c-4839-a07f-51cda1cae670")
+	)
+	(fp_line
+		(start 1.75 -3.25)
+		(end 1.75 3.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2c3aac54-fc8c-45c1-a50d-4a060e057fbd")
+	)
+	(fp_line
+		(start 1.75 3.25)
+		(end -1.75 3.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f5a92fc7-f9c8-44e2-8f5c-4e9524221ec6")
+	)
+	(pad "1" smd rect
+		(at -2.9 -2.3)
+		(size 2.15 0.95)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "e4ed4a1c-eab8-45cd-8cae-3c0964f85c25")
+	)
+	(pad "2" smd rect
+		(at -2.9 0)
+		(size 2.15 0.95)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "6580c8e2-5228-4cb4-9323-4953429ee35c")
+	)
+	(pad "3" smd rect
+		(at -2.9 2.3)
+		(size 2.15 0.95)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "4d024808-042d-4952-927a-44461d7d0a7a")
+	)
+	(pad "4" smd rect
+		(at 2.9 0)
+		(size 2.15 3.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "71d91ab6-5e89-42bb-bf64-0f37a08879b7")
+	)
+	(embedded_fonts no)
+	(model "${LUTZCRAFT_LIBS}/3dmodels/LM1117MPX-3.3.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
