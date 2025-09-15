@@ -108078,7 +108078,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "Lutzcraft:TL2230OAF140"
+		(property "Footprint" "Lutzcraft:TL2230EEF140"
 			(at 26.67 -94.92 0)
 			(effects
 				(font
