@@ -165,7 +165,7 @@
 		(uuid "ae8aa372-d5d8-41c7-9123-8cf439659b04")
 	)
 	(embedded_fonts no)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/T491A106K010AT7280.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/T491A106K010AT7280.step"
 		(offset
 			(xyz 0 0 0)
 		)

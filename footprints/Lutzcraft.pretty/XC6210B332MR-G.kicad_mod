@@ -603,7 +603,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "f4cb1a8d-aa35-4569-a36d-f67c8c809683")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/SOT-25_TOR.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/SOT-25_TOR.step"
 		(offset
 			(xyz 0 0 0)
 		)

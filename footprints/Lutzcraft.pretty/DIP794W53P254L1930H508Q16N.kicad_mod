@@ -43,7 +43,7 @@
   (pad "14" thru_hole circle (at 3.97 -3.81) (size 1.13 1.13) (drill 0.73) (layers *.Cu *.Mask) (tstamp e00ad115-b2e0-48f0-b89e-4aa7af437bf7))
   (pad "15" thru_hole circle (at 3.97 -6.35) (size 1.13 1.13) (drill 0.73) (layers *.Cu *.Mask) (tstamp 65380a79-543a-4832-9941-ab2f6880f1a4))
   (pad "16" thru_hole circle (at 3.97 -8.89) (size 1.13 1.13) (drill 0.73) (layers *.Cu *.Mask) (tstamp 6da4c9db-0319-48aa-b5fa-6a4feaa0e7dd))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/CD74HC138E.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/CD74HC138E.stp"
     (offset (xyz 0 0 6))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

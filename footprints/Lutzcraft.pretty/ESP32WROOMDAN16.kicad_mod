@@ -92,7 +92,7 @@
   (pad "47" smd rect (at -0.1 7.68 90) (size 0.9 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp db83d0af-e085-4050-8496-fa2ebdecbd62))
   (pad "48" smd rect (at -0.1 6.28 90) (size 0.9 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a501555e-bbc7-4b58-ad89-28a0cd3dd6d0))
   (pad "49" smd rect (at -0.1 4.88 90) (size 0.9 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3cfcbcc7-4f45-46ab-82a8-c414c7972161))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/ESP32-WROOM-DA-N16.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/ESP32-WROOM-DA-N16.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

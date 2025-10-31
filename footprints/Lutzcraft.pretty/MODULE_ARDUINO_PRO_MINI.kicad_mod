@@ -56,7 +56,7 @@
   (pad "JP7_10" thru_hole circle (at -7.62 -7.62) (size 1.8796 1.8796) (drill 1.016) (layers *.Cu *.Mask) (tstamp 7d283b62-f314-41a0-b56b-d307f2ebfa85))
   (pad "JP7_11" thru_hole circle (at -7.62 -10.16) (size 1.8796 1.8796) (drill 1.016) (layers *.Cu *.Mask) (tstamp 2a507df7-40c5-4523-b0fd-269cea55efb9))
   (pad "JP7_12" thru_hole circle (at -7.62 -12.7) (size 1.8796 1.8796) (drill 1.016) (layers *.Cu *.Mask) (tstamp 845f389f-ac5c-4af4-aa4f-3b1355707a5f))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/Arduino Pro Mini.STEP"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/Arduino Pro Mini.STEP"
     (offset (xyz -14.25 25.25 -12.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

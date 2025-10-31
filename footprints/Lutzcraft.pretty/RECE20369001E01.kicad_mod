@@ -32,7 +32,7 @@
   (pad "2" smd rect (at 0 0.987) (size 0.5 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2f3386e4-776c-4fd8-a358-179b6aee75b7))
   (pad "3" smd rect (at 0.95 -0.037) (size 0.5 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp aa3b40f4-0f1d-42d4-9d37-6be4fddffc05))
   (pad "4" smd rect (at 0 -0.987) (size 0.5 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 14fe1642-edf5-468d-ab8c-83fa8635e829))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/RECE.20369.001E.01.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/RECE.20369.001E.01.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

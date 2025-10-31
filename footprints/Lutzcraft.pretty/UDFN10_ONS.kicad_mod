@@ -330,7 +330,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "a3d45f94-1d47-4d60-9982-2e938d59b3b5")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/ESD7104MUTAG.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/ESD7104MUTAG.step"
 		(offset
 			(xyz 0 0 0)
 		)

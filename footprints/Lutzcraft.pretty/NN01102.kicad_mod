@@ -28,7 +28,7 @@
   (fp_line (start 3.5 -1.5) (end 3.5 1.5) (layer "F.Fab") (width 0.1) (tstamp e68c5170-03c3-4a20-abd0-ad610c43d035))
   (pad "1" smd rect (at -2.55 0) (size 1.5 2.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 681bd495-c396-44ce-92bd-4b397cd48c04))
   (pad "2" smd rect (at 2.55 0) (size 1.5 2.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp be0953c0-632d-4dd2-85e9-4d41239f22d2))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/NN01-102.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/NN01-102.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

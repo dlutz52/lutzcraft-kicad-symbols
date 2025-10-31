@@ -27,7 +27,7 @@
   (fp_line (start 2.5 -1.6) (end 2.5 1.6) (layer "F.Fab") (width 0.1) (tstamp fa49fa64-b856-4035-b148-ae0af98a51c0))
   (pad "1" smd rect (at -1.85 0) (size 2.25 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp df05ea38-d9ea-4260-abff-2cd94d5e77b6))
   (pad "2" smd rect (at 1.85 0) (size 2.25 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ea11aa7a-22b6-4ba5-a290-f678c00b385d))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/X50328MSB2GI.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/X50328MSB2GI.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

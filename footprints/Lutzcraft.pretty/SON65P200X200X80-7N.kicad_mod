@@ -245,7 +245,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "59209994-0657-4715-a743-fb23afd08235")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/TLV75801PDRVR.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/TLV75801PDRVR.step"
 		(offset
 			(xyz 0 0 0)
 		)

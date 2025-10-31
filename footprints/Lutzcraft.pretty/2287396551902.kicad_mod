@@ -68,7 +68,7 @@
   (pad "27" thru_hole circle (at 20.42 -12.384) (size 1.446 1.446) (drill 0.89) (layers "*.Cu" "*.Mask") (tstamp c60eda46-9452-4e8a-9af9-8eeb5ad0b09a))
   (pad "28" thru_hole circle (at 20.32 -15.136) (size 1.446 1.446) (drill 0.89) (layers "*.Cu" "*.Mask") (tstamp 88a3aa34-38f7-4587-8745-56911cc4a10d))
   (pad "MH1" thru_hole circle (at 10.21 -7.63) (size 2.355 2.355) (drill 1.57) (layers "*.Cu" "*.Mask") (tstamp a16b891c-b6db-4e44-a8b3-eceefe63324e))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/228-7396-55-1902.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/228-7396-55-1902.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

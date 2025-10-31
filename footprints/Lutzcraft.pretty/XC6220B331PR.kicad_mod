@@ -608,7 +608,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "621094c8-29de-4c47-84f6-432761890b61")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/XC6220B331PR.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/XC6220B331PR.step"
 		(offset
 			(xyz 0 0 0)
 		)

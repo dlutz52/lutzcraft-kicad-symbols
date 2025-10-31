@@ -78,7 +78,7 @@
   (pad "1" thru_hole circle (at 0 0) (size 1.65 1.65) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp eb606e88-eec7-4171-a1f1-9e638d9e6260))
   (pad "2" thru_hole circle (at 2.5 -2.5) (size 1.65 1.65) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp 1741431e-a2c7-42a7-8e94-7d3780896e74))
   (pad "3" thru_hole circle (at 5 0) (size 1.65 1.65) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp 1de2b410-ffc2-47a3-b121-5544222c5ba9))
-  (model ":LUTZCRAFT_DIR:3dmodels/3306W-1-105.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/3306W-1-105.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

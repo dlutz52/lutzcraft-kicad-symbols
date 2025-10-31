@@ -54,7 +54,7 @@
   (pad "SH4" smd rect (at 0.9375 -1.45 90) (size 1.9 1.375) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1def42ff-405e-4401-917b-3918ab6675e6))
   (pad "SH5" smd rect (at 2.4625 -3.75 90) (size 2.1 1.475) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 00a638be-2f6f-427b-88d5-ac57bad0525d))
   (pad "SH6" thru_hole oval (at 3.95 -1.45) (size 1.208 2.416) (drill oval 0.7 1.3) (layers "*.Cu" "*.Mask") (tstamp 8fd1d2dd-6a35-4070-8362-7ec8898c9ae5))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/Molex-105164-0001_USB-B-Micro.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/Molex-105164-0001_USB-B-Micro.step"
     (offset (xyz 0 2.9 0.25))
     (scale (xyz 1 1 1.1))
     (rotate (xyz -90 0 180))

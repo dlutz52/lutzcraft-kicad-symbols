@@ -187,7 +187,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "2271573c-8e8f-42ae-b71e-5ca8503f0fe4")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/SS14.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/SS14.step"
 		(offset
 			(xyz 0 0 0)
 		)

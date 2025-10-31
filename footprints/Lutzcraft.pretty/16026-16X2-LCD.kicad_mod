@@ -108,7 +108,7 @@
     (solder_mask_margin 0.102) (tstamp fa28024e-c190-4dd6-807c-23ce218ae802))
   (pad "P$16" thru_hole oval (at 46.1 2.3) (size 1.508 3.016) (drill 1) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp e809f18c-c028-4afa-9442-f75f0790bb04))
-  (model ":LUTZCRAFT_DIR:3dmodels/1602 LCD.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/1602 LCD.stp"
     (offset (xyz 40 -18 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 0))

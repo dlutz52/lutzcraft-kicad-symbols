@@ -160,7 +160,7 @@
 		(uuid "71d91ab6-5e89-42bb-bf64-0f37a08879b7")
 	)
 	(embedded_fonts no)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/LM1117MPX-3.3.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/LM1117MPX-3.3.step"
 		(offset
 			(xyz 0 0 0)
 		)

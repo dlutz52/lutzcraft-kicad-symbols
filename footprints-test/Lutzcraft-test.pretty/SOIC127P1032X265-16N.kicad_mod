@@ -312,7 +312,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "9f5c5156-5ac6-43ab-8fd1-3c3abbc0707f")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/DS3231SN_.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/DS3231SN_.step"
 		(offset
 			(xyz 0 0 0)
 		)

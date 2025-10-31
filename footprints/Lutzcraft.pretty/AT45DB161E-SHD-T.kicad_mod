@@ -248,7 +248,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "d84a2324-87bc-4a6c-964f-aab285f76efc")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/AT45DB161E-SHD-T.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/AT45DB161E-SHD-T.step"
 		(offset
 			(xyz 0 0 0)
 		)

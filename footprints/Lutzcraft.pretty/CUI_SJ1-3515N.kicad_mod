@@ -37,7 +37,7 @@
   (pad "3" thru_hole oval (at 8.3 -5) (size 3.016 1.508) (drill oval 2 1) (layers *.Cu *.Mask) (tstamp 4f2f68c4-6fa0-45ce-b5c2-e911daddcd12))
   (pad "4" thru_hole oval (at 11.1 4.2) (size 1.508 3.016) (drill oval 1 2) (layers *.Cu *.Mask) (tstamp dd6c35f3-ae45-4706-ad6f-8028797ca8e0))
   (pad "5" thru_hole oval (at 6.6 -2.5) (size 3.016 1.508) (drill oval 2 1) (layers *.Cu *.Mask) (tstamp 39845449-7a31-4262-86b1-e7af14a6659f))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/CUI_DEVICES_SJ1-3515N.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/CUI_DEVICES_SJ1-3515N.step"
     (offset (xyz -5.5 0 3))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 180))

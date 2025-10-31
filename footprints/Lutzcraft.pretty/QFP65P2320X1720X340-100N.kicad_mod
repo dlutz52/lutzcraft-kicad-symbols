@@ -145,7 +145,7 @@
   (pad "98" smd roundrect (at -4.875 -11.18 90) (size 1.8 0.48) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.06) (tstamp d805e4d3-22a6-4def-b050-e71586541769))
   (pad "99" smd roundrect (at -5.525 -11.18 90) (size 1.8 0.48) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.06) (tstamp 54bf79e7-c389-424e-8acd-a3e6c8e63563))
   (pad "100" smd roundrect (at -6.175 -11.18 90) (size 1.8 0.48) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.06) (tstamp 5d004ff3-0bfb-4724-be26-69d82c2bcded))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/Z84C1510FEG_xFSG.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/Z84C1510FEG_xFSG.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

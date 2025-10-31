@@ -218,7 +218,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "9c1fe760-f01f-4c73-a632-41d78c0907b6")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/FTR-102-02-S-S.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/FTR-102-02-S-S.step"
 		(offset
 			(xyz 0 0 2.5)
 		)

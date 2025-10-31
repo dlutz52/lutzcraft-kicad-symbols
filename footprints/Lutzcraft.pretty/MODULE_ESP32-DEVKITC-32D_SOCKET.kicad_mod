@@ -75,7 +75,7 @@
   (pad "36" thru_hole circle (at 12.7 20.88) (size 1.56 1.56) (drill 1.04) (layers "*.Cu" "*.Mask") (tstamp f1dd8642-b405-490b-a449-d1cc5797fda8))
   (pad "37" thru_hole circle (at 12.7 23.42) (size 1.56 1.56) (drill 1.04) (layers "*.Cu" "*.Mask") (tstamp f022716e-b121-4cbf-a833-20e924070c22))
   (pad "38" thru_hole circle (at 12.7 25.96) (size 1.56 1.56) (drill 1.04) (layers "*.Cu" "*.Mask") (tstamp cb868d2e-5efb-4bfb-8796-88435b326918))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/ESP32-DEVKITC-32D--3DModel-STEP-56544.STEP"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/ESP32-DEVKITC-32D--3DModel-STEP-56544.STEP"
     (offset (xyz 0 -3.25 10.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

@@ -80,7 +80,7 @@
   (pad "45" smd rect (at 9.885 -2.645 90) (size 1.33 1.33) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6199bec7-e7eb-4ae0-b9ec-c563e157d635))
   (pad "46" smd rect (at 8 -2.645 90) (size 1.33 1.33) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e47adf3d-9c24-4345-80c9-66679cad107e))
   (pad "47" smd rect (at 8 -0.76 90) (size 1.33 1.33) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7f3eb118-a20c-4239-b800-c9211c66847d))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/ESP-WROVER-KIT.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/ESP-WROVER-KIT.stp"
     (offset (xyz 9 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

@@ -185,7 +185,7 @@
   (pad "142" smd roundrect (at -7.75 -10.600002) (size 0.299999 2.100001) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.5) (tstamp 8ba0157b-c2f5-4654-bd39-55b20b9741de))
   (pad "143" smd roundrect (at -8.249999 -10.600002) (size 0.299999 2.100001) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.5) (tstamp 2900c74a-7405-4e92-a668-218014d75eea))
   (pad "144" smd roundrect (at -8.75 -10.600002) (size 0.299999 2.100001) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.5) (tstamp 7396e8eb-fe78-4d1e-b445-9f37c8161d36))
-  (model ":LUTZCRAFT_DIR:3dmodels/STM32F429ZET6.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/STM32F429ZET6.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

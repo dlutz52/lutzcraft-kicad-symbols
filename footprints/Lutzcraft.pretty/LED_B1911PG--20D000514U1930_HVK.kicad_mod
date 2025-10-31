@@ -52,7 +52,7 @@
     (stroke (width 0.0254) (type solid)) (fill none) (layer "F.Fab") (tstamp df5d4486-8811-46e4-a501-c8cb010c0c35))
   (pad "1" smd rect (at -0.5715 0) (size 0.4572 0.8128) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cff47fb2-1ae8-4a4d-878d-a78b3ae0b657))
   (pad "2" smd rect (at 0.5715 0) (size 0.4572 0.8128) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ce240308-ca48-422d-a65e-314817ef12f8))
-  (model ":LUTZCRAFT_DIR:3dmodels/LED_B1911PG--20D000514U1930_HVK.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/LED_B1911PG--20D000514U1930_HVK.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

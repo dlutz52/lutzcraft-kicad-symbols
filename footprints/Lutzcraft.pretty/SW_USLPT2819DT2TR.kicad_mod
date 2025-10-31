@@ -270,7 +270,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/USLPT2819DT2TR.STEP"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/USLPT2819DT2TR.STEP"
 		(offset
 			(xyz 0 -0.25 0)
 		)

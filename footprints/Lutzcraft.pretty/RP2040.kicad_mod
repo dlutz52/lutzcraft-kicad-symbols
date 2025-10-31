@@ -387,7 +387,7 @@
   (pad "55" smd rect (at -2.200001 -3.4012) (size 0.1786 0.807999) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1f3003e6-dce5-420f-906b-3f1e92b67249))
   (pad "56" smd rect (at -2.6 -3.4012) (size 0.1786 0.807999) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0ff508fd-18da-4ab7-9844-3c8a28c2587e))
   (pad "57" smd rect (at 0 0) (size 3.2004 3.2004) (layers "F.Cu" "F.Mask") (tstamp 378af8b4-af3d-46e7-89ae-deff12ca9067))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/RP2040--3DModel-STEP-175466.STEP"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/RP2040--3DModel-STEP-175466.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

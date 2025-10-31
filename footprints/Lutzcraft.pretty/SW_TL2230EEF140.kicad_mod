@@ -1,7 +1,7 @@
 (footprint "SW_TL2230EEF140"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0.635 -5.969 0)
@@ -21,18 +21,6 @@
 		(effects
 			(font
 				(size 1.4 1.4)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "2e1bfd8c-4d34-4009-99e7-6fa7a8694d69")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -129,7 +117,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "8b597da4-143b-4fc8-9704-2d3a6bf9232f")
 	)
@@ -220,7 +208,7 @@
 			(width 0.2)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "18e0b5b3-f069-4f20-ac4b-cc4008010211")
 	)
@@ -278,7 +266,8 @@
 		(solder_mask_margin 0.102)
 		(uuid "674a947b-d66f-4b03-ba1b-724227d69c7f")
 	)
-	(model "${KIPRJMOD}/libraries/3dmodels/TL2230EEF140.step"
+	(embedded_fonts no)
+	(model "${LUTZCRAFT_3DMODELS_DIR}/TL2230EEF140.step"
 		(offset
 			(xyz 0 0 0)
 		)

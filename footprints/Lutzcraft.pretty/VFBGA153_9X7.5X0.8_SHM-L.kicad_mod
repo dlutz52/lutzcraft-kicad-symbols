@@ -266,7 +266,7 @@
   (pad "P12" smd circle (at 2.25 3.25) (size 0.2286 0.2286) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 165b7538-ee33-4c20-a818-b8abeb909d90))
   (pad "P13" smd circle (at 2.75 3.25) (size 0.2286 0.2286) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 56ea01f0-f7ef-40ea-94c9-554c03b19eb9))
   (pad "P14" smd circle (at 3.25 3.25) (size 0.2286 0.2286) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cf6ecc48-17d7-4b85-a084-cadac7da3e11))
-  (model ":LUTZCRAFT_DIR:3dmodels/VFBGA153_9X7_5X0_8_SHM.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/VFBGA153_9X7_5X0_8_SHM.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

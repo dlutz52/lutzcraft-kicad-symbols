@@ -233,7 +233,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "1ef01ae0-1abf-4a23-a4c1-19582e136b43")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/PTS810SJK250SMTRLFS.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/PTS810SJK250SMTRLFS.step"
 		(offset
 			(xyz 0 0 0)
 		)

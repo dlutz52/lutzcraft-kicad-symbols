@@ -177,7 +177,7 @@
     (solder_mask_margin 0.102) (tstamp d78fb52d-9514-4a9f-b907-11cbd1fb47bd))
   (pad "33" smd rect (at 0 0) (size 3.3 3.3) (layers "F.Cu" "F.Mask")
     (solder_mask_margin 0.102) (tstamp af7c14a7-ada6-4d69-abf8-4b3eae9aff04))
-  (model ":LUTZCRAFT_DIR:3dmodels/USB3320C-EZK-TR.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/USB3320C-EZK-TR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

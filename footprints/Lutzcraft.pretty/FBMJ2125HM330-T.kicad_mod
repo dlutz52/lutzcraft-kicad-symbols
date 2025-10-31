@@ -145,7 +145,7 @@
 		(uuid "95b43eea-4e8b-42ae-878b-4305e59e1001")
 	)
 	(embedded_fonts no)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/FBMJ2125HM330-T.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/FBMJ2125HM330-T.step"
 		(offset
 			(xyz 0 0 0)
 		)

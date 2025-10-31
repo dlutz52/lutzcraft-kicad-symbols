@@ -66,7 +66,7 @@
       )
     )
   )
-  (model ":LUTZCRAFT_DIR:3dmodels/CCS_CCSTDNOS_1206_L3.4W1.8T1.8B0.75.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/CCS_CCSTDNOS_1206_L3.4W1.8T1.8B0.75.step"
     (offset (xyz -1.7 -0.85 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

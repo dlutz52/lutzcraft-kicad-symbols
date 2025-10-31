@@ -41,7 +41,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 7b9be371-a07a-4f96-a1ae-ab0d34cc36da))
   (pad "1" smd rect (at -2.2 0 90) (size 1.8 3.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 70cfb6a0-6d13-4e55-8eb4-7aee9b685be8))
   (pad "2" smd rect (at 2.2 0 90) (size 1.8 3.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 46cf59e5-7352-49d9-8fb6-107aed6f2437))
-  (model ":LUTZCRAFT_DIR:3dmodels/875105359001.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/875105359001.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

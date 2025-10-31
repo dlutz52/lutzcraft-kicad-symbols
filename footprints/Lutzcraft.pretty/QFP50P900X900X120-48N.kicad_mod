@@ -78,7 +78,7 @@
   (pad "46" smd rect (at -1.75 -4.238) (size 0.3 1.475) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 753bf8e4-39aa-4758-a806-28c82abf64c4))
   (pad "47" smd rect (at -2.25 -4.238) (size 0.3 1.475) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1e8b9ed7-5608-4479-9f4f-6b479c5e1e3f))
   (pad "48" smd rect (at -2.75 -4.238) (size 0.3 1.475) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f0f25223-cc1b-4478-b875-3d43223714db))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/ATSAMD21G18A-AU.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/ATSAMD21G18A-AU.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

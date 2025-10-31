@@ -556,7 +556,7 @@
 			(xyz -0 -0 -0)
 		)
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/MCP73871-2CAI_ML.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/MCP73871-2CAI_ML.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -127,7 +127,7 @@
   (pad "7" smd rect (at 3.9751 -0.635) (size 0.9652 0.4318) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 79753aa3-0b15-469c-b5b7-c50cfd3d84b5))
   (pad "8" smd rect (at 3.9751 -1.905) (size 0.9652 0.4318) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 981059f2-b99a-4412-b5b5-d80d88f09bbc))
   (pad "9" smd rect (at 0 0) (size 3.4544 4.3434) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fd8828c3-9ec3-4c54-ae5b-50a77c7ebc04))
-  (model ":LUTZCRAFT_DIR:3dmodels/WSON_128JVEIQ_WIN.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/WSON_128JVEIQ_WIN.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

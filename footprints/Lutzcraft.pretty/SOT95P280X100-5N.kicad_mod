@@ -48,7 +48,7 @@
   (pad "3" smd rect (at -1.3 0.95 90) (size 0.6 1.05) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 76463ffb-ace2-46c7-98ef-269b81082d75))
   (pad "4" smd rect (at 1.3 0.95 90) (size 0.6 1.05) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d8c62e16-de0a-412e-ab28-34b0cc299ab2))
   (pad "5" smd rect (at 1.3 -0.95 90) (size 0.6 1.05) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f0d25f5d-0728-45f5-b9a8-18655d9a2f0a))
-  (model ":LUTZCRAFT_DIR:3dmodels/MIC2295YD5-TR.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/MIC2295YD5-TR.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

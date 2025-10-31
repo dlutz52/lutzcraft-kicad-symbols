@@ -88,7 +88,7 @@
   (pad "41_19" thru_hole circle (at -0.1 0.01) (size 0.4 0.4) (drill 0.2) (layers *.Cu) (tstamp da61999d-a804-4700-a8ed-895bc2af0a31))
   (pad "41_20" thru_hole circle (at -2.2 0.71) (size 0.4 0.4) (drill 0.2) (layers *.Cu) (tstamp 22abab2e-9885-4da7-9852-348f356dd096))
   (pad "41_21" thru_hole circle (at -0.8 0.71) (size 0.4 0.4) (drill 0.2) (layers *.Cu) (tstamp dea160a0-c7eb-439d-aa99-b60757115fc7))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/ESP32-S3-WROOM-1U.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/ESP32-S3-WROOM-1U.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

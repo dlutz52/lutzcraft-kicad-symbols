@@ -960,7 +960,7 @@
   (pad "63" smd rect (at -3.250001 -4.4418) (size 0.2548 0.907999) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 334f2323-a758-47a7-a0dd-463b072cb7b3))
   (pad "64" smd rect (at -3.75 -4.4418) (size 0.2548 0.907999) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e77e8ec2-c818-421d-95a6-d70bc5a2fba6))
   (pad "65" smd rect (at 0 0) (size 7.493 7.493) (layers "F.Cu" "F.Mask") (tstamp 5c73e4d4-1809-418f-b92e-2cf19dc87071))
-  (model ":LUTZCRAFT_DIR:3dmodels/QFN64_9x9MC_MCH.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/QFN64_9x9MC_MCH.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

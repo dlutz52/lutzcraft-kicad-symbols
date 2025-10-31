@@ -523,7 +523,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "2584ed18-94df-4aaf-bca5-a8a5ad434ef7")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/SOT-223_DIO.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/SOT-223_DIO.step"
 		(offset
 			(xyz 0 0 0)
 		)

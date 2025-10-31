@@ -98,12 +98,12 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${LUTZCRAFT_LIBS}/3dmodels/ESP32-WROVER-E__16MB_.stp" hide
+  (model "${LUTZCRAFT_3DMODELS_DIR}/ESP32-WROVER-E__16MB_.stp" hide
     (offset (xyz 8.5 -1 0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${LUTZCRAFT_LIBS}/3dmodels/ESP32-WROVER-IE_4MB_.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/ESP32-WROVER-IE_4MB_.stp"
     (offset (xyz 8.5 -0.75 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

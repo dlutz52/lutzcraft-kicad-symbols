@@ -39,7 +39,7 @@
   (pad "1" thru_hole rect (at -2 0) (size 1.308 1.308) (drill 0.8) (layers *.Cu *.Mask) (tstamp 47a4c6d1-73fd-4fac-afb1-2dfbdf2121e3))
   (pad "2" thru_hole circle (at 0 0) (size 1.308 1.308) (drill 0.8) (layers *.Cu *.Mask) (tstamp b048c6ba-c10e-4fab-b0a1-b0aa4466782c))
   (pad "3" thru_hole circle (at 2 0) (size 1.308 1.308) (drill 0.8) (layers *.Cu *.Mask) (tstamp 8b672844-9923-465b-bf6e-024cf1ffac8c))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/OS102011MS2QN1.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/OS102011MS2QN1.step"
     (offset (xyz 0 0 4.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

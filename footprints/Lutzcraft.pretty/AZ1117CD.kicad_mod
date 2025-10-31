@@ -539,7 +539,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "78f3d654-2eea-4732-b7f0-0e297bd96de8")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/TO252-2-3_3V_DIO.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/TO252-2-3_3V_DIO.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -629,7 +629,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/ESP32-C3-WROOM-02-H4.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/ESP32-C3-WROOM-02-H4.step"
 		(offset
 			(xyz 0 0 0)
 		)

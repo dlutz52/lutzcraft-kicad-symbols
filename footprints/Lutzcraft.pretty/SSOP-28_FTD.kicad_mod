@@ -1666,7 +1666,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "704979ea-0135-4ef3-a049-9a9fc6eccdb4")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/SSOP-28_FTD.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/SSOP-28_FTD.step"
 		(offset
 			(xyz 0 0 0)
 		)

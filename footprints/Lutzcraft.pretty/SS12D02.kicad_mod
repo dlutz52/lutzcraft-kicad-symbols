@@ -31,7 +31,7 @@
   (pad "3" thru_hole circle (at 4 0) (size 1.3 1.3) (drill 0.8) (layers *.Cu *.Mask) (tstamp 6077e8e1-1281-45f9-b616-9ff610b933f2))
   (pad "MH1" thru_hole circle (at 6.1 0) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask) (tstamp af317941-765b-456b-86d3-f7e7b77cdc2d))
   (pad "MH2" thru_hole circle (at -2.1 0) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask) (tstamp eebc4f5f-b92a-40c2-a3c8-4b66576f3c0f))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/SS12D02.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/SS12D02.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

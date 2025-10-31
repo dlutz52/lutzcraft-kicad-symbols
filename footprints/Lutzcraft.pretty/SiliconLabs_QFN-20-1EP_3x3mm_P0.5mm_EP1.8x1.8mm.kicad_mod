@@ -409,7 +409,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/CP2102N-A02-GQFN20.STEP"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/CP2102N-A02-GQFN20.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

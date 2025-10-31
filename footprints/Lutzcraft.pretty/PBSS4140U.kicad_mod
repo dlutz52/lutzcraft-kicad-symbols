@@ -72,7 +72,7 @@
   (pad "1" smd rect (at -0.649999 0.8763) (size 0.4572 1.1684) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9fb77340-8959-4e08-80d3-d396d0f40578))
   (pad "2" smd rect (at 0.649999 0.8763) (size 0.4572 1.1684) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3d91e159-b28f-4016-b781-d485dbd0a7a5))
   (pad "3" smd rect (at 0 -0.8763) (size 0.4572 1.1684) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 74bfcd55-5e85-4660-be65-06062a0c760e))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/SOT323_NEX.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/SOT323_NEX.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

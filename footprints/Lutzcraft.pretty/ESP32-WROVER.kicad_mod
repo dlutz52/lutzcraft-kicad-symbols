@@ -81,12 +81,12 @@
   (pad "39" thru_hole circle (at 0.6 6.82) (size 0.8 0.8) (drill 0.3) (layers *.Cu *.Mask) (tstamp e1105432-6a2f-45d9-8a08-47401d087cf4))
   (pad "39" thru_hole circle (at 0.6 9.82) (size 0.8 0.8) (drill 0.3) (layers *.Cu *.Mask) (tstamp e63e39d7-6ac0-4ffd-8aa3-1841a4541b55))
   (pad "39" thru_hole circle (at -2.4 7.82) (size 0.8 0.8) (drill 0.3) (layers *.Cu *.Mask) (tstamp e6521bef-4109-48f7-8b88-4121b0468927))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/ESP32-WROVER-IE_4MB_.stp" hide
+  (model "${LUTZCRAFT_3DMODELS_DIR}/ESP32-WROVER-IE_4MB_.stp" hide
     (offset (xyz 0 -10.25 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${LUTZCRAFT_LIBS}/3dmodels/ESP32-WROVER-E__16MB_.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/ESP32-WROVER-E__16MB_.stp"
     (offset (xyz 0 -9.1 0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

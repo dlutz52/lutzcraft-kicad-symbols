@@ -831,7 +831,7 @@
   (pad "31" smd rect (at -1.27 -2.4511) (size 0.254 0.8128) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6ff0e5b1-9800-4938-bf14-0b748c954761))
   (pad "32" smd rect (at -1.778 -2.4511) (size 0.254 0.8128) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b09cfc8a-0f50-4b45-ad6b-87dfcdc27de9))
   (pad "33" smd rect (at 0 0) (size 3.4036 3.4036) (layers "F.Cu") (tstamp c5658c62-fec1-4749-8469-0b9d3e28ade5))
-  (model ":LUTZCRAFT_DIR:3dmodels/QFN32_5X5MC_MCH.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/QFN32_5X5MC_MCH.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

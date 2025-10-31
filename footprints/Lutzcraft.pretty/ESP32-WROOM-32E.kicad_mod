@@ -125,7 +125,7 @@
       )
     )
   )
-  (model "${LUTZCRAFT_LIBS}/3dmodels/ESP32-WROOM-32E.STEP"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/ESP32-WROOM-32E.STEP"
     (offset (xyz -9 -11 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

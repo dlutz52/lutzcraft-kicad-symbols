@@ -200,7 +200,7 @@
   (pad "T7" smd circle (at 1.6 5.999999) (size 0.381 0.381) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d30cadf4-4724-4ff8-a8d2-5896c6f01b67))
   (pad "T8" smd circle (at 2.4 5.999999) (size 0.381 0.381) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e45d2274-1d70-4463-80a1-28ccc2e5f478))
   (pad "T9" smd circle (at 3.2 5.999999) (size 0.381 0.381) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c158987b-8d2d-4a51-a416-3569154431ad))
-  (model ":LUTZCRAFT_DIR:3dmodels/FBGA96_TW_MRN.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/FBGA96_TW_MRN.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

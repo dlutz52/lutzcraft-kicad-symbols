@@ -251,7 +251,7 @@
 		(uuid "64d470fd-005e-4eb6-8e3e-d64200da46b6")
 	)
 	(embedded_fonts no)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/B2B-PH-SM4-TB.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/B2B-PH-SM4-TB.step"
 		(offset
 			(xyz 0 0 0)
 		)

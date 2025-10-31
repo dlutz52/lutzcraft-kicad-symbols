@@ -1934,7 +1934,7 @@
 		(layers "F.Cu" "F.Paste")
 		(uuid "c3df303d-5e65-4489-b5cc-448cf0e22a78")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/TSM-103-01-L-SV.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/TSM-103-01-L-SV.step"
 		(offset
 			(xyz 0 0 1.25)
 		)

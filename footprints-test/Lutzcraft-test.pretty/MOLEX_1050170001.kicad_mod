@@ -733,7 +733,7 @@
 		(remove_unused_layers no)
 		(uuid "129813bb-1704-47e7-b1d4-57d451016aca")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/1050170001.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/1050170001.step"
 		(offset
 			(xyz 0 1.9 0)
 		)

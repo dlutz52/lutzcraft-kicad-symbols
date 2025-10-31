@@ -60,7 +60,7 @@
   (pad "3" smd rect (at -1.286251 0.950001) (size 0.921499 0.4318) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 452c8d75-aa5e-4c5d-b7f7-07aa48bbf245))
   (pad "4" smd rect (at 1.286251 0.950001) (size 0.921499 0.4318) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 966cd2ae-4255-4a92-af40-093e3a84f37c))
   (pad "5" smd rect (at 1.286251 -0.950001) (size 0.921499 0.4318) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 12e3318b-d723-448e-80f4-0a2add1fb722))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/XC6210B332MR-G.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/XC6210B332MR-G.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

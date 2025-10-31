@@ -29,7 +29,7 @@
   (fp_line (start 0.6 -0.4) (end 0.6 0.4) (layer "F.Fab") (width 0.1) (tstamp f6ee98b5-4773-4eeb-a825-33c1705abace))
   (pad "1" smd rect (at -0.7 0 90) (size 0.42 0.76) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp be0953c0-632d-4dd2-85e9-4d41239f22d2))
   (pad "2" smd rect (at 0.7 0 90) (size 0.42 0.76) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a3668681-09b1-48f0-a7b1-f6b24183a469))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/ESD5V0D5-TP.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/ESD5V0D5-TP.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

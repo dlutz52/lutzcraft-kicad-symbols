@@ -43,12 +43,12 @@
   (pad "A1" thru_hole circle (at -5 0) (size 3.9 3.9) (drill 2.6) (layers "*.Cu" "*.Mask") (tstamp d23df18c-a8dc-4f4a-a195-09c4cb308f8d))
   (pad "B1" thru_hole circle (at 0 -4.5) (size 3.9 3.9) (drill 2.6) (layers "*.Cu" "*.Mask") (tstamp 9ec3de52-0097-487f-814d-9c707bad7d27))
   (pad "C1" thru_hole circle (at 5 0) (size 3.9 3.9) (drill 2.6) (layers "*.Cu" "*.Mask") (tstamp d6a5a848-7eb6-4b36-aad7-4f036c6d7b66))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/RCJ-014.stp" hide
+  (model "${LUTZCRAFT_3DMODELS_DIR}/RCJ-014.stp" hide
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${LUTZCRAFT_LIBS}/3dmodels/CUI_DEVICES_RCJ-014.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/CUI_DEVICES_RCJ-014.step"
     (offset (xyz 0 -1.25 6.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))

@@ -28,7 +28,7 @@
   (pad "2" smd rect (at 3.975 -2.25) (size 1.55 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 06e0b93c-e9e5-4588-a4a0-559b2b1e1170))
   (pad "3" smd rect (at -3.975 2.25) (size 1.55 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 29eeaf52-5c5c-474e-9bf9-93b8570a7d73))
   (pad "4" smd rect (at 3.975 2.25) (size 1.55 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 637192d4-5a93-41b5-8f14-061083ee2edb))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/PTS645  switch.STEP"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/PTS645  switch.STEP"
     (offset (xyz 0 0 1.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 90 0))

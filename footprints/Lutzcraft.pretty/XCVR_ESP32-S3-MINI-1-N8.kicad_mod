@@ -865,7 +865,7 @@
 			)
 		)
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/ESP32-S3-MINI-1-N8.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/ESP32-S3-MINI-1-N8.step"
 		(offset
 			(xyz 0 0 0)
 		)

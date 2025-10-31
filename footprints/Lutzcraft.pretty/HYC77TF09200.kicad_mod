@@ -44,7 +44,7 @@
   (pad "MP2" smd rect (at -7.75 3.725) (size 1.2 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp be625300-4cf2-4da0-a8ec-561a0f7fbeb7))
   (pad "MP3" smd rect (at 7.75 3.725) (size 1.2 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4e21b72a-02d3-4e98-8482-09fee0be5560))
   (pad "MP4" smd rect (at 6.85 -5.875 90) (size 1.5 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp faa8bc65-ea3a-4cf9-8e30-bdd16c7ad613))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/HYC77-TF09-200.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/HYC77-TF09-200.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

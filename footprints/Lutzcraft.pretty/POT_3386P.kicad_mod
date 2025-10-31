@@ -45,7 +45,7 @@
   (pad "1" thru_hole circle (at 0 0) (size 1.3208 1.3208) (drill 0.8128) (layers "*.Cu" "*.Mask") (tstamp d825570f-9ded-480d-bd4b-9c5ee4592cdd))
   (pad "2" thru_hole rect (at 2.54 2.54) (size 1.3208 1.3208) (drill 0.8128) (layers "*.Cu" "*.Mask") (tstamp 64e6882d-53dd-4945-9b1c-942a0bf46756))
   (pad "3" thru_hole rect (at 5.08 0) (size 1.3208 1.3208) (drill 0.8128) (layers "*.Cu" "*.Mask") (tstamp a1d2bfdd-2658-47e6-85e5-49649e8fb3d0))
-  (model ":LUTZCRAFT_DIR:3dmodels/3386P-1-502LF.STEP"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/3386P-1-502LF.STEP"
     (offset (xyz 2.5 0 -1.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 180))

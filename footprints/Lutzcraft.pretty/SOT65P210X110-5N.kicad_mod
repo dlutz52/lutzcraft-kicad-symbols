@@ -315,19 +315,7 @@
 		(uuid "89eddea8-9428-4aab-a007-9d9b2a6269a7")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/Libraries/3D models/MAX4466EXK.step"
-		(hide yes)
-		(offset
-			(xyz 0 0 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz -90 -0 -0)
-		)
-	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/MAX4466EXK.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/MAX4466EXK.step"
 		(offset
 			(xyz 0 0 0)
 		)

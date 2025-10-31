@@ -45,7 +45,7 @@
   (pad "S1" thru_hole oval (at -2.8 0) (size 2.2 1.1) (drill oval 1.2 0.5) (layers "*.Cu" "*.Mask") (tstamp 3cbdbea5-adff-497f-b73b-c3b4dcb2a8c3))
   (pad "S2" thru_hole oval (at 2.8 0) (size 2.2 1.1) (drill oval 1.2 0.5) (layers "*.Cu" "*.Mask") (tstamp 2247b4c7-3f73-4ec4-90d8-f0d8c0a46e4c))
   (pad "S3" thru_hole oval (at 0 2.15) (size 2.2 1.1) (drill oval 1.6 0.5) (layers "*.Cu" "*.Mask") (tstamp fa736c34-0fe1-40af-83b0-0803aa452a2b))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/Molex 1051330001 [USB B Micro].step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/Molex 1051330001 [USB B Micro].step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

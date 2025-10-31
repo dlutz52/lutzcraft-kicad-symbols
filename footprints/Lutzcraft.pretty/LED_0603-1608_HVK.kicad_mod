@@ -64,7 +64,7 @@
       )
     )
   )
-  (model ":LUTZCRAFT_DIR:3dmodels/LED_0603-1608_HVK.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/LED_0603-1608_HVK.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

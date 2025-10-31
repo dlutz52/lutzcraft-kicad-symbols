@@ -110,7 +110,7 @@
   (pad "78" smd rect (at -4.4 -11.475) (size 0.6 1.95) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 87d12864-a0e8-4310-9a66-a8b9c6099da4))
   (pad "79" smd rect (at -5.2 -11.475) (size 0.6 1.95) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 180c5448-3d3e-49f1-b655-4a64a70b336b))
   (pad "80" smd rect (at -6 -11.475) (size 0.6 1.95) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 296b9d47-6790-4880-ad18-d49058804612))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/Z8S18020FEG.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/Z8S18020FEG.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

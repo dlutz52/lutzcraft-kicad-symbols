@@ -522,7 +522,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "744bf9ad-3201-4631-b4df-82ae02271ec9")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/ESP32-S3-WROOM-2-N32R8V.stp"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/ESP32-S3-WROOM-2-N32R8V.stp"
 		(hide yes)
 		(offset
 			(xyz 0 0 0)
@@ -534,7 +534,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/ESP32-S3-WROOM-2-N32R8V.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/ESP32-S3-WROOM-2-N32R8V.step"
 		(offset
 			(xyz 0 0 0)
 		)

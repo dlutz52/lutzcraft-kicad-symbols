@@ -529,7 +529,7 @@
   (pad "Y18" smd circle (at 5.999999 7.599999) (size 0.4064 0.4064) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2678ccc1-15cc-4ee2-96c1-7df959ea129c))
   (pad "Y19" smd circle (at 6.799999 7.599999) (size 0.4064 0.4064) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 98d9ef74-b515-4f41-a5c6-40c1ddf574ca))
   (pad "Y20" smd circle (at 7.599999 7.599999) (size 0.4064 0.4064) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cd7b1f73-db18-44af-96dd-ad26387a9b9f))
-  (model ":LUTZCRAFT_DIR:3dmodels/CLG400_XIL.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/CLG400_XIL.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

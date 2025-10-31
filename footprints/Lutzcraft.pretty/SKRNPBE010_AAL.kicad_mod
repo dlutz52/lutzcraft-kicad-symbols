@@ -322,7 +322,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "7a5b9e68-76f1-4fe2-9a0e-d933bcad1aae")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/SKRNPB.STEP"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/SKRNPB.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

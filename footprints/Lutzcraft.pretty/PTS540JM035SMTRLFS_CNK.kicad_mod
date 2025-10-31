@@ -64,7 +64,7 @@
   (pad "2" smd rect (at 1.545199 -1.375001) (size 0.6096 0.6604) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 99a2a4b2-a958-4022-9c27-a6f1d102d2ca))
   (pad "3" smd rect (at -1.545199 1.375001) (size 0.6096 0.6604) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fc1a802d-b796-4cb9-a434-2e782c9af570))
   (pad "4" smd rect (at 1.545199 1.375001) (size 0.6096 0.6604) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 48003087-ec57-4aaa-a456-bd495c9f07e8))
-  (model ":LUTZCRAFT_DIR:3dmodels/PTS540JM035SMTRLFS.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/PTS540JM035SMTRLFS.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

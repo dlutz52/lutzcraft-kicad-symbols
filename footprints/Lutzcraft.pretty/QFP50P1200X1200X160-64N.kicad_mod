@@ -756,7 +756,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "f58df3d0-054f-4adc-ae0e-c73cd789e9aa")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/STM32F030R8T6.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/STM32F030R8T6.step"
 		(offset
 			(xyz 0 0 0.85)
 		)

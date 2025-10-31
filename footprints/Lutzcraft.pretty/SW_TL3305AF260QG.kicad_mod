@@ -221,7 +221,7 @@
 		(uuid "924d3b29-9f54-4fd9-980f-4338d86c3dfb")
 	)
 	(embedded_fonts no)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/TL3305AF260QG.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/TL3305AF260QG.step"
 		(offset
 			(xyz 0 0 0)
 		)

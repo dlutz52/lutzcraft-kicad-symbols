@@ -76,7 +76,7 @@
   (pad "39" smd rect (at -1.4 -2.55) (size 0.2 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp de31665e-bcf1-4daa-bf62-299c90e61476))
   (pad "40" smd rect (at -1.8 -2.55) (size 0.2 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f46ce153-5843-4abb-972b-fbb1109a1628))
   (pad "41" smd rect (at 0 0) (size 3.95 3.95) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f4e8d834-5a03-4545-a501-889c705487c2))
-  (model ":LUTZCRAFT_DIR:3dmodels/RTL8211F-CG.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/RTL8211F-CG.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

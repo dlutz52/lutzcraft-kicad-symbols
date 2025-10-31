@@ -238,7 +238,7 @@
 		(uuid "b251a9ed-4791-4ec0-9ebb-7cb8c8e03b29")
 	)
 	(embedded_fonts no)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/BME280.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/BME280.step"
 		(offset
 			(xyz 0 0 0)
 		)

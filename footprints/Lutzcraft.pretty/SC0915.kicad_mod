@@ -11395,7 +11395,7 @@
   (pad "TP4" smd roundrect (at -2.5 -17.5) (size 1.5 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.3) (tstamp 77cf97a8-733f-4844-b739-32296b0bf70e))
   (pad "TP5" smd roundrect (at -2.5 -15) (size 1.5 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.3) (tstamp 1faae0b3-000f-4a5b-98b6-e693a547e9a8))
   (pad "TP6" smd roundrect (at -2.5 -12.5) (size 1.5 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.3) (tstamp 9dbac948-b489-471f-bb28-c108b83fe088))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/SC0915--3DModel-STEP-1.STEP"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/SC0915--3DModel-STEP-1.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

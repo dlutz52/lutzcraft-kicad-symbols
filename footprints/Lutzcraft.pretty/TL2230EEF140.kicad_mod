@@ -275,7 +275,7 @@
 		(uuid "dd3767eb-aec1-41a1-8daf-924f3d5b9d11")
 	)
 	(embedded_fonts no)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/TL2230EEF140.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/TL2230EEF140.step"
 		(offset
 			(xyz 2 2.5 0)
 		)

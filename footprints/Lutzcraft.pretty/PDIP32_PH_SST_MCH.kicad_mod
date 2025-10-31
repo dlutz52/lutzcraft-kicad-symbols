@@ -424,7 +424,7 @@
   (pad "30" thru_hole circle (at 15.24 5.08) (size 1.2446 1.2446) (drill 0.7366) (layers "*.Cu" "*.Mask") (tstamp 884a305d-e1a2-4cdc-950a-a03d33e8051d))
   (pad "31" thru_hole circle (at 15.24 2.54) (size 1.2446 1.2446) (drill 0.7366) (layers "*.Cu" "*.Mask") (tstamp a387daa4-fc82-4c00-90a0-d5faf1ce7524))
   (pad "32" thru_hole circle (at 15.24 0) (size 1.2446 1.2446) (drill 0.7366) (layers "*.Cu" "*.Mask") (tstamp 794d1250-318e-4561-b9fa-0287f325bae3))
-  (model ":LUTZCRAFT_DIR:3dmodels/PDIP32_PH_SST_MCH.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/PDIP32_PH_SST_MCH.step"
     (offset (xyz 0 0 4))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

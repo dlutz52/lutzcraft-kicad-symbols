@@ -43,7 +43,7 @@
   (pad "2" smd rect (at 0.95 1.1) (size 0.9 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0d532d27-804a-4352-b395-6a493e2f7385))
   (pad "3" smd rect (at 0.95 -1.1) (size 0.9 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f0da4885-8539-43b1-971a-1f0490fecd77))
   (pad "4" smd rect (at -0.95 -1.1) (size 0.9 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cc0f6af0-3303-41b3-96a6-f6cf369451c9))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/SP0503BAHTG.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/SP0503BAHTG.stp"
     (offset (xyz 0 0 0.65))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

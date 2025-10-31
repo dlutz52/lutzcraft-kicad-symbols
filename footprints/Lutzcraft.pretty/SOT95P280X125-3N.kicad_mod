@@ -33,7 +33,7 @@
   (pad "1" smd rect (at -1.25 -0.95 90) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cc72aed2-4aae-4bd8-a39d-953a894a4e46))
   (pad "2" smd rect (at -1.25 0.95 90) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 84afeae7-d3ce-4bad-bd47-1af44e760c0d))
   (pad "3" smd rect (at 1.25 0 90) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8f776380-fcbf-4da6-96c0-055517925d40))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/AO3401A.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/AO3401A.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -333,7 +333,7 @@
     (solder_mask_margin 0.102) (tstamp 20636974-b031-4ac4-a271-b4696a1809a1))
   (pad "144" smd roundrect (at -8.75 -10.68 90) (size 1.56 0.28) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.04)
     (solder_mask_margin 0.102) (tstamp 7a162a1d-5ed0-4b5c-8b2d-1dcc2e7491ac))
-  (model ":LUTZCRAFT_DIR:3dmodels/STM32F429ZET6_SE.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/STM32F429ZET6_SE.step"
     (offset (xyz 0 0 1))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

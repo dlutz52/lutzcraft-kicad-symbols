@@ -38,7 +38,7 @@
   (pad "6" smd rect (at 2.925 0.325 90) (size 0.45 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 562a58a0-075d-418c-8821-b646bb55e0d2))
   (pad "7" smd rect (at 2.925 -0.325 90) (size 0.45 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4cba10c4-8395-4c44-b670-9890188612d3))
   (pad "8" smd rect (at 2.925 -0.975 90) (size 0.45 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1625551e-1274-4977-b976-31fd9af52bcc))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/NV24C16DTVLT3G.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/NV24C16DTVLT3G.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

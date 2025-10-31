@@ -247,7 +247,7 @@
 		(uuid "ff07704a-03cc-4436-ac84-1f0f2f7c5624")
 	)
 	(embedded_fonts no)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/35WR100KLFTR.stp"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/35WR100KLFTR.stp"
 		(offset
 			(xyz 0 0 0)
 		)

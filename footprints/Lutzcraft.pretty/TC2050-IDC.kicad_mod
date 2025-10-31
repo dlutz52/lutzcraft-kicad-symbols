@@ -58,7 +58,7 @@
   (pad "8" smd circle (at 0.9525 1.905 90) (size 0.8636 0.8636) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3a8a1c06-a13c-4b83-b299-22a5bfd84558))
   (pad "9" smd circle (at -0.3175 1.905 90) (size 0.8636 0.8636) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f9b33187-0920-489b-9768-d1a85b0f8df4))
   (pad "10" smd circle (at -1.5875 1.905 90) (size 0.8636 0.8636) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 85d132d9-441d-4da1-9a98-84006d04ba4f))
-  (model ":LUTZCRAFT_DIR:3dmodels/TC2050-IDC.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/TC2050-IDC.stp"
     (offset (xyz 60.11 -20.14 176.369992))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

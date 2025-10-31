@@ -275,7 +275,7 @@
 		(uuid "09f9a59a-5977-49e4-8b12-4b8ce15314f4")
 	)
 	(embedded_fonts no)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/W25Q32JVSSIQ.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/W25Q32JVSSIQ.step"
 		(offset
 			(xyz 0 0 0)
 		)

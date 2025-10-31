@@ -118,7 +118,7 @@
       )
     )
   )
-  (model "${LUTZCRAFT_LIBS}/3dmodels/NN02-101.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/NN02-101.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

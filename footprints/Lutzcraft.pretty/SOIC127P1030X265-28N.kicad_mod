@@ -58,7 +58,7 @@
   (pad "26" smd rect (at 4.675 -5.715 90) (size 0.65 1.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c9d3f7d0-b690-4042-8d76-896b875f5106))
   (pad "27" smd rect (at 4.675 -6.985 90) (size 0.65 1.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a68a8083-d7c1-425d-9ec0-efaeb02bd242))
   (pad "28" smd rect (at 4.675 -8.255 90) (size 0.65 1.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4f987931-232e-4e4a-8344-da7ff1f01d71))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/MCP23017-E_SO.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/MCP23017-E_SO.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

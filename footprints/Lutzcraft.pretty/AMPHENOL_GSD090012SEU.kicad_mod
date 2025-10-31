@@ -471,19 +471,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/Libraries/3D models/GSD090012SEU.step"
-		(hide yes)
-		(offset
-			(xyz 0 0 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/GSD090012SEU.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/GSD090012SEU.step"
 		(offset
 			(xyz 0 0 0)
 		)

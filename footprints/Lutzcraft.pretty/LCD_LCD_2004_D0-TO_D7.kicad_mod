@@ -101,7 +101,7 @@
     (solder_mask_margin 0.102) (tstamp 378dd4e5-be01-48ba-93e3-39914b9baaab))
   (pad "S4" thru_hole circle (at 46.5 27.5) (size 5.1 5.1) (drill 3.4) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp 37260530-db2e-416e-9275-25c63fcebf48))
-  (model ":LUTZCRAFT_DIR:3dmodels/LCD Display 2004.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/LCD Display 2004.stp"
     (offset (xyz 0 0 2.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

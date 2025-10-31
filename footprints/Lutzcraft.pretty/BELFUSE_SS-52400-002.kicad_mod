@@ -554,9 +554,9 @@
 		(uuid "7751170f-b928-4375-ba64-8182e13cde0b")
 	)
 	(embedded_fonts no)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/SS-52400-002.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/SS-52400-002.step"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 1.5 0)
 		)
 		(scale
 			(xyz 1 1 1)

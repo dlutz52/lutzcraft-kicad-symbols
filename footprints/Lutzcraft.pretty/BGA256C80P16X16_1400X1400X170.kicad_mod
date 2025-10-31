@@ -287,7 +287,7 @@
   (pad "T14" smd circle (at 4.4 6 90) (size 0.41 0.41) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0bd53502-8c33-4b52-b427-d88a5c4afb99))
   (pad "T15" smd circle (at 5.2 6 90) (size 0.41 0.41) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 343708f8-4383-4c55-ac34-2599b92ecde3))
   (pad "T16" smd circle (at 6 6 90) (size 0.41 0.41) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp af006bad-e2b9-4732-91ff-ea73c7aaf2af))
-  (model "${LUTZCRAFT_LIBS}/3dmodels/LFE5U-25F-6BG256C.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/LFE5U-25F-6BG256C.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

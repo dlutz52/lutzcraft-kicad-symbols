@@ -69,7 +69,7 @@
     (solder_mask_margin 0.102) (tstamp 87fb3dc8-128b-4c4a-925a-fbbb53daf561))
   (pad "8B" thru_hole circle (at 8.89 -3.81) (size 1.508 1.508) (drill 1) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp 7650db7f-843a-4999-8908-c36c352ba44b))
-  (model ":LUTZCRAFT_DIR:3dmodels/CUI_DEVICES_DS02C-254-1L-08BE-Blue.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/CUI_DEVICES_DS02C-254-1L-08BE-Blue.step"
     (offset (xyz 0 5.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

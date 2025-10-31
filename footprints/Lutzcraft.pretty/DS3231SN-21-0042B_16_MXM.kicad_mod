@@ -1102,7 +1102,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "dda0ca1f-e442-4fee-bb22-1c787d2ba937")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/21-0042B_16_MXM.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/21-0042B_16_MXM.step"
 		(offset
 			(xyz 0 0 0)
 		)

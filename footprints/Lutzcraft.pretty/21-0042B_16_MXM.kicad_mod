@@ -1,7 +1,7 @@
 (footprint "21-0042B_16_MXM"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(tags "ds3231sn- ")
 	(property "Reference" "REF**"
@@ -28,18 +28,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "7c9eb9d2-fb41-472b-b0ef-16cabba7e53d")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -49,6 +37,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -61,6 +50,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -133,7 +123,7 @@
 			(width 0)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 		(uuid "bb588416-fb22-46a7-9f99-a330c0c58361")
 	)
@@ -1009,100 +999,101 @@
 	(pad "1" smd rect
 		(at -4.7371 -4.445)
 		(size 1.8796 0.5334)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "fe1a4780-28f4-4fcc-ae0f-3122e5753ce4")
 	)
 	(pad "2" smd rect
 		(at -4.7371 -3.175)
 		(size 1.8796 0.5334)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "0d52c5f2-16a8-43af-9486-835cabf2686f")
 	)
 	(pad "3" smd rect
 		(at -4.7371 -1.905)
 		(size 1.8796 0.5334)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "9b5834ce-8f8a-4383-9758-4884582699ad")
 	)
 	(pad "4" smd rect
 		(at -4.7371 -0.635)
 		(size 1.8796 0.5334)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "3dfd5109-a65a-4419-91f0-43e0126f2aa3")
 	)
 	(pad "5" smd rect
 		(at -4.7371 0.635)
 		(size 1.8796 0.5334)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "7aa83558-86c0-4008-a336-6f03cd50eea1")
 	)
 	(pad "6" smd rect
 		(at -4.7371 1.905)
 		(size 1.8796 0.5334)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "86f0bafa-75b0-45ec-9e6b-36eeed91cced")
 	)
 	(pad "7" smd rect
 		(at -4.7371 3.175)
 		(size 1.8796 0.5334)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "23233ecf-41df-4808-b0d9-35729ac35199")
 	)
 	(pad "8" smd rect
 		(at -4.7371 4.445)
 		(size 1.8796 0.5334)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "a0fdc2f7-5478-4c0f-90b0-8a4dde1226db")
 	)
 	(pad "9" smd rect
 		(at 4.7371 4.445)
 		(size 1.8796 0.5334)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "447580ae-6fa3-43c3-baac-2ffc1c941813")
 	)
 	(pad "10" smd rect
 		(at 4.7371 3.175)
 		(size 1.8796 0.5334)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "9fdc897c-5fc2-4423-80af-6c131194d7d9")
 	)
 	(pad "11" smd rect
 		(at 4.7371 1.905)
 		(size 1.8796 0.5334)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "6c05d153-5943-4376-8db6-a1746cd1b189")
 	)
 	(pad "12" smd rect
 		(at 4.7371 0.635)
 		(size 1.8796 0.5334)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "87527c60-100d-466e-89f1-43f76acd4217")
 	)
 	(pad "13" smd rect
 		(at 4.7371 -0.635)
 		(size 1.8796 0.5334)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "34e27623-2181-4742-b2a2-422a9bb841ec")
 	)
 	(pad "14" smd rect
 		(at 4.7371 -1.905)
 		(size 1.8796 0.5334)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "76f711bd-2b6f-4879-8dcb-36b831213c5a")
 	)
 	(pad "15" smd rect
 		(at 4.7371 -3.175)
 		(size 1.8796 0.5334)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "72e29dbe-e706-484f-ab42-210e92737202")
 	)
 	(pad "16" smd rect
 		(at 4.7371 -4.445)
 		(size 1.8796 0.5334)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "b9214324-580d-478a-89fc-dfb2eaa78819")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/21-0042B_16_MXM.step"
+	(embedded_fonts no)
+	(model "${LUTZCRAFT_3DMODELS_DIR}/21-0042B_16_MXM.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -75,7 +75,7 @@
   (pad "18" thru_hole circle (at 7.62 5.08) (size 1.7 1.7) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 2109017d-959d-400a-9a0e-dfda9d779b0c))
   (pad "19" thru_hole circle (at 7.62 2.54) (size 1.7 1.7) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 2cf9c1a4-eef1-466d-9bdb-02e7402900bb))
   (pad "20" thru_hole circle (at 7.62 0) (size 1.7 1.7) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp c24ebdfc-7167-4b7d-b0b0-843ac7960457))
-  (model ":LUTZCRAFT_DIR:3dmodels/LTA-1000G.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/LTA-1000G.stp"
     (offset (xyz 4 -11.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

@@ -63,7 +63,7 @@
     (solder_mask_margin 0.102) (tstamp 2c657bce-b26c-43e4-b1b9-fee1df9e2b36))
   (pad "14" smd roundrect (at 2.475 -3.81) (size 1.97 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15)
     (solder_mask_margin 0.102) (tstamp 94a27bcc-f702-4cc5-b84e-7e1bc454507f))
-  (model ":LUTZCRAFT_DIR:3dmodels/SN74HC32DR.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/SN74HC32DR.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

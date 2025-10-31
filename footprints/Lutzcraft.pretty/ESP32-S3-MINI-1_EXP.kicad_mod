@@ -693,7 +693,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "4fd8fac8-61f0-4541-a16a-74aed45a535f")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/ESP32-S3-MINI-1-N8.step"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/ESP32-S3-MINI-1-N8.step"
 		(offset
 			(xyz 0 -2.5 0)
 		)

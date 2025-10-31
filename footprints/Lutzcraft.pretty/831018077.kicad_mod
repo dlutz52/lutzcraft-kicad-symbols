@@ -262,7 +262,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "9b6dccde-62f3-4ba3-aece-987a798b4e93")
 	)
-	(model "${LUTZCRAFT_LIBS}/3dmodels/831018077.stp"
+	(model "${LUTZCRAFT_3DMODELS_DIR}/831018077.stp"
 		(offset
 			(xyz 0 0 0)
 		)

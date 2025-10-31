@@ -49,7 +49,7 @@
   (pad "B1" smd rect (at 3.1 -1.85 90) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a7b5feb8-fdb2-4c24-8d99-3f6693009c96))
   (pad "D1" smd rect (at 3.1 1.85 90) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e9fb9b5e-aa45-4cc6-ad6d-b0abe8ebb100))
   (pad "H1" smd rect (at -3.1 1.85 90) (size 1.1 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 84c4bf5b-6608-417d-bc60-c4f8108bd281))
-  (model ":LUTZCRAFT_DIR:3dmodels/RS187R05A2DSMTRT.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/RS187R05A2DSMTRT.stp"
     (offset (xyz 0 0 1))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 90))
