@@ -3,6 +3,8 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
+	(descr "1x2 screw terminal")
+	(tags "screw terminal")
 	(property "Reference" "REF**"
 		(at 0.945 -5.989 0)
 		(layer "F.SilkS")
@@ -49,6 +51,28 @@
 			)
 		)
 	)
+	(property "Source" "SameSky (Formerly CUI)"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "da451171-58c2-4a01-90d2-b3aa88bdfd50")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Source URL" "https://www.sameskydevices.com/product/resource/digikeypcbfootprint/tb002-500-series/tb002-500-02be"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "7f1859c6-675c-4f68-9d7d-cefcdf1d4edd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
 	(attr through_hole)
 	(fp_line
 		(start -2.5 -4.1)
@@ -91,8 +115,8 @@
 		(uuid "b1a8d87e-6bb5-4d9e-99e5-25d2c8987078")
 	)
 	(fp_circle
-		(center -0.5 4)
-		(end -0.4 4)
+		(center -1.9 3)
+		(end -1.8 3)
 		(stroke
 			(width 0.2)
 			(type solid)
@@ -182,8 +206,8 @@
 		(uuid "9e4af8e6-d5f6-43d1-947c-521ad927571d")
 	)
 	(fp_circle
-		(center -0.5 4)
-		(end -0.4 4)
+		(center -1.9 3)
+		(end -1.8 3)
 		(stroke
 			(width 0.2)
 			(type solid)
