@@ -79,7 +79,7 @@
   (pad "3" smd rect (at 0 -2.54 90) (size 0.76 2.03) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7bc6a781-e476-46f0-9b85-c99483575955))
   (pad "MP1" smd rect (at -8 2.54 90) (size 0.76 2.03) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 841dcfc1-05d2-482f-8100-5ec8c2f19947))
   (pad "MP2" smd rect (at -8 -2.54 90) (size 0.76 2.03) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cd5d4a39-3bf6-4df0-ae30-52287f16b6b1))
-  (model ":LUTZCRAFT_LIBS:3dmodels/GT12MSABE.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/GT12MSABE.stp"
     (offset (xyz -3 0 2.75))
     (scale (xyz 1 1 1))
     (rotate (xyz -180 0 90))

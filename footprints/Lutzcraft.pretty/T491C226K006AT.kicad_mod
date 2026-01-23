@@ -75,7 +75,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 43368a26-0fd3-4bd5-9571-c67eaeda4846))
   (pad "1" smd rect (at -2.022196 0 90) (size 2.299995 2.560396) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2bf7e63c-f108-4e6f-9065-b94a0ede0141))
   (pad "2" smd rect (at 2.022196 0 90) (size 2.299995 2.560396) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 779ab8cc-f023-4dc7-8237-ae81b47a2311))
-  (model ":LUTZCRAFT_LIBS:3dmodels/CTSM_TCM2NK_6032_L6.3W3.5H2.8T0.13S1.3F2.3A2.9B0.65E2.4G2.8P0.9R1X0.2.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/CTSM_TCM2NK_6032_L6.3W3.5H2.8T0.13S1.3F2.3A2.9B0.65E2.4G2.8P0.9R1X0.2.step"
     (offset (xyz -3 -1.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

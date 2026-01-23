@@ -47,7 +47,7 @@
   (pad "2" smd rect (at -3.35 0 90) (size 0.95 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8a326ffe-332c-46e5-a974-8e176fef1ab4))
   (pad "3" smd rect (at -3.35 2.29 90) (size 0.95 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b6fc009d-aee1-47f1-bd51-2f43bf9fa32c))
   (pad "4" smd rect (at 3.35 0) (size 1.3 3.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 16f06b19-29ce-4ef3-9a8e-aaa43169fc51))
-  (model ":LUTZCRAFT_LIBS:3dmodels/AMS1117-3.3.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/AMS1117-3.3.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -97,7 +97,7 @@
   (pad "2" smd rect (at 0 3.118998) (size 0.889 1.4732) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ec3066fd-714b-44d8-ad61-cba096542610))
   (pad "3" smd rect (at 2.3114 3.118998) (size 0.889 1.4732) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 82d84c2b-578f-4491-90c5-a6d2451c4c3e))
   (pad "4" smd rect (at 0 -3.118998) (size 3.1496 1.4732) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c1d1e748-fbde-4adb-8e95-094ba3a268b4))
-  (model ":LUTZCRAFT_LIBS:3dmodels/SOT223_AMS1117-5_0_ADS.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/SOT223_AMS1117-5_0_ADS.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

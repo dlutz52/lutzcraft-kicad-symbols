@@ -92,7 +92,7 @@
   (pad "37" smd rect (at 8.5 -4.24 90) (size 0.9 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e1304f03-c568-4e5d-8ab1-cdb12a2d5603))
   (pad "38" smd rect (at 8.5 -5.51 90) (size 0.9 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7194b35c-7979-4389-b70c-e7f22dc46cdc))
   (pad "39" smd rect (at -1 1.99 90) (size 5 5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0ffc4d5d-fcc9-4bf1-b650-87f127da101c))
-  (model ":LUTZCRAFT_LIBS:3dmodels/ESP32-SOLO-1.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/ESP32-SOLO-1.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

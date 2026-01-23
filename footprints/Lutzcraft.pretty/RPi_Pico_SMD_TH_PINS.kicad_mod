@@ -440,7 +440,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))
   )
-  (model ":LUTZCRAFT_LIBS:3dmodels/Pico.wrl"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/Pico.wrl"
     (offset (xyz 0 0 2.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

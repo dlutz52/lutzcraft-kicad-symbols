@@ -125,7 +125,7 @@
     (solder_mask_margin 0.102) (tstamp 3ab521a4-808c-4981-b77f-45111aedb555))
   (pad "J3_22" thru_hole circle (at 11.43 23.37) (size 1.53 1.53) (drill 1.02) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp aaaec99b-9fe3-4486-af31-0de77b06cb0b))
-  (model ":LUTZCRAFT_LIBS:3dmodels/ESP32-S3-DEVKITC-1-N8R2.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/ESP32-S3-DEVKITC-1-N8R2.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

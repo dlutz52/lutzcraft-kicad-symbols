@@ -75,7 +75,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))
   )
-  (model "$(LUTZCRAFT_DIR)/3dmodels/LCD Display 2004.stp"
+  (model "$(KICAD7_3DMODEL_DIR)/LCD Display 2004.stp"
     (offset (xyz -27.5 -39 9.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 180 -90))

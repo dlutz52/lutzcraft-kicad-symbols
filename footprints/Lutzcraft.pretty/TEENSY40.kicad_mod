@@ -73,7 +73,7 @@
   (pad "32" thru_hole circle (at 2.54 -15.24) (size 1.665 1.665) (drill 1.11) (layers "*.Cu" "*.Mask") (tstamp 38132eab-b7c1-4e78-aa3a-f070e8ffe8be))
   (pad "33" thru_hole circle (at 0 -15.24) (size 1.665 1.665) (drill 1.11) (layers "*.Cu" "*.Mask") (tstamp 529443de-38cd-4d6d-b00d-08ca97a4d7d3))
   (pad "34" thru_hole circle (at 2.54 -12.7) (size 1.665 1.665) (drill 1.11) (layers "*.Cu" "*.Mask") (tstamp 54baee95-844a-493e-8bc4-c56857f0860f))
-  (model ":LUTZCRAFT_LIBS:3dmodels/TEENSY_4.0.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/TEENSY_4.0.stp"
     (offset (xyz 16.5 7.5 0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

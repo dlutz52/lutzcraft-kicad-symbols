@@ -192,7 +192,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model ":LUTZCRAFT_LIBS:3dmodels/STM32F429ZET6.stp"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/STM32F429ZET6.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -49,7 +49,7 @@
     (stroke (width 0.2) (type solid)) (layer "F.Fab") (tstamp 7bb94872-8dbb-49c9-ba04-f5628db9fbfd))
   (pad "1" smd rect (at 0 10.88) (size 3.17 3.96) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 28524fc6-37a9-43e6-ad36-677957a0532a))
   (pad "2" smd rect (at 0 -10.88) (size 3.17 3.96) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6182facb-9838-4626-8330-5d06c1a16807))
-  (model ":LUTZCRAFT_LIBS:3dmodels/keystone_1062.step"
+  (model "${LUTZCRAFT_3DMODELS_DIR}/keystone_1062.step"
     (offset (xyz 0 2.75 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
