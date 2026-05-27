@@ -6056,6 +6056,36 @@
 			"AR4h/5QaJmPxWKRa92Me2OlL/f/A8mrXKXBUQwAAAABJRU5ErkJggg=="
 		)
 	)
+	(label "SWNet"
+		(at 135.9779 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7aea9014-77a7-46f4-a189-f190cf98393b")
+	)
+	(label "ANet"
+		(at 135.89 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "89570e7a-5b9d-40fc-b41b-5db1fb674c85")
+	)
+	(label "BNet"
+		(at 135.89 107.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bc2c27e2-bf42-4301-a813-f7fe94311b1f")
+	)
 	(global_label "A"
 		(shape input)
 		(at 95.25 99.06 180)
@@ -6370,7 +6400,7 @@
 			(uuid "0056a98f-32c9-41a6-ba64-c1306cb900a1")
 		)
 		(instances
-			(project "rot_enc_bourne_pec11r"
+			(project "PEC11R-4215F-S0024 Debounced"
 				(path "/163ec35e-ed3b-46f7-8463-44b486ecfeb9"
 					(reference "MT1")
 					(unit 1)
@@ -6448,7 +6478,7 @@
 			(uuid "7597ccc3-83fa-431b-8182-af154b3137c6")
 		)
 		(instances
-			(project "rot_enc_bourne_pec11r"
+			(project "PEC11R-4215F-S0024 Debounced"
 				(path "/163ec35e-ed3b-46f7-8463-44b486ecfeb9"
 					(reference "#PWR01")
 					(unit 1)
@@ -6549,7 +6579,7 @@
 			(uuid "3a5f8d95-f5fb-4b1a-8cf2-aa91d008d7ed")
 		)
 		(instances
-			(project "rot_enc_bourne_pec11r"
+			(project "PEC11R-4215F-S0024 Debounced"
 				(path "/163ec35e-ed3b-46f7-8463-44b486ecfeb9"
 					(reference "D2")
 					(unit 1)
@@ -6627,7 +6657,7 @@
 			(uuid "4bc33333-d45f-4a60-98ab-14d3c36c6a24")
 		)
 		(instances
-			(project "rot_enc_bourne_pec11r"
+			(project "PEC11R-4215F-S0024 Debounced"
 				(path "/163ec35e-ed3b-46f7-8463-44b486ecfeb9"
 					(reference "#PWR02")
 					(unit 1)
@@ -6706,7 +6736,7 @@
 			(uuid "18b01a95-5997-4d6d-9296-78def0608f5d")
 		)
 		(instances
-			(project "rot_enc_bourne_pec11r"
+			(project "PEC11R-4215F-S0024 Debounced"
 				(path "/163ec35e-ed3b-46f7-8463-44b486ecfeb9"
 					(reference "#FLG02")
 					(unit 1)
@@ -6784,7 +6814,7 @@
 			(uuid "e639e512-55c3-4d77-a547-f55d05315c70")
 		)
 		(instances
-			(project "rot_enc_bourne_pec11r"
+			(project "PEC11R-4215F-S0024 Debounced"
 				(path "/163ec35e-ed3b-46f7-8463-44b486ecfeb9"
 					(reference "#PWR03")
 					(unit 1)
@@ -6865,7 +6895,7 @@
 			(uuid "ce5bb5f8-24b1-460e-b70d-a6b483bab162")
 		)
 		(instances
-			(project "rot_enc_bourne_pec11r"
+			(project "PEC11R-4215F-S0024 Debounced"
 				(path "/163ec35e-ed3b-46f7-8463-44b486ecfeb9"
 					(reference "C1")
 					(unit 1)
@@ -6946,7 +6976,7 @@
 			(uuid "e7429117-00d8-4e14-af36-32f6601bc859")
 		)
 		(instances
-			(project "rot_enc_bourne_pec11r"
+			(project "PEC11R-4215F-S0024 Debounced"
 				(path "/163ec35e-ed3b-46f7-8463-44b486ecfeb9"
 					(reference "C3")
 					(unit 1)
@@ -7027,7 +7057,7 @@
 			(uuid "cae76510-cbff-42be-874d-b72a62e0ebee")
 		)
 		(instances
-			(project "rot_enc_bourne_pec11r"
+			(project "PEC11R-4215F-S0024 Debounced"
 				(path "/163ec35e-ed3b-46f7-8463-44b486ecfeb9"
 					(reference "R1")
 					(unit 1)
@@ -7108,7 +7138,7 @@
 			(uuid "4c384192-d3f0-4d40-89ae-f604313cde15")
 		)
 		(instances
-			(project "rot_enc_bourne_pec11r"
+			(project "PEC11R-4215F-S0024 Debounced"
 				(path "/163ec35e-ed3b-46f7-8463-44b486ecfeb9"
 					(reference "R2")
 					(unit 1)
@@ -7189,7 +7219,7 @@
 			(uuid "e849ccaf-26e4-4a6f-b10e-2ba2e552a6b9")
 		)
 		(instances
-			(project "rot_enc_bourne_pec11r"
+			(project "PEC11R-4215F-S0024 Debounced"
 				(path "/163ec35e-ed3b-46f7-8463-44b486ecfeb9"
 					(reference "R6")
 					(unit 1)
@@ -7268,7 +7298,7 @@
 			(uuid "4c44aa5e-6234-4169-ab7b-4312c15ce53a")
 		)
 		(instances
-			(project "rot_enc_bourne_pec11r"
+			(project "PEC11R-4215F-S0024 Debounced"
 				(path "/163ec35e-ed3b-46f7-8463-44b486ecfeb9"
 					(reference "#FLG01")
 					(unit 1)
@@ -7349,7 +7379,7 @@
 			(uuid "3c96a8e5-88ec-4237-92c0-0506e2bb2497")
 		)
 		(instances
-			(project "rot_enc_bourne_pec11r"
+			(project "PEC11R-4215F-S0024 Debounced"
 				(path "/163ec35e-ed3b-46f7-8463-44b486ecfeb9"
 					(reference "R5")
 					(unit 1)
@@ -7427,7 +7457,7 @@
 			(uuid "2ede3a87-adb1-4ea7-a549-df9acc78a9d5")
 		)
 		(instances
-			(project "rot_enc_bourne_pec11r"
+			(project "PEC11R-4215F-S0024 Debounced"
 				(path "/163ec35e-ed3b-46f7-8463-44b486ecfeb9"
 					(reference "#PWR04")
 					(unit 1)
@@ -7528,7 +7558,7 @@
 			(uuid "9a83c658-c009-4cc5-8af0-dbb317013447")
 		)
 		(instances
-			(project "rot_enc_bourne_pec11r"
+			(project "PEC11R-4215F-S0024 Debounced"
 				(path "/163ec35e-ed3b-46f7-8463-44b486ecfeb9"
 					(reference "D3")
 					(unit 1)
@@ -7629,7 +7659,7 @@
 			(uuid "15798f34-eba8-4ae9-bb6d-aef6e0b0d3c3")
 		)
 		(instances
-			(project "rot_enc_bourne_pec11r"
+			(project "PEC11R-4215F-S0024 Debounced"
 				(path "/163ec35e-ed3b-46f7-8463-44b486ecfeb9"
 					(reference "D1")
 					(unit 1)
@@ -7710,7 +7740,7 @@
 			(uuid "451ed3cf-0736-47d0-a4d7-f29779e1bb8d")
 		)
 		(instances
-			(project "rot_enc_bourne_pec11r"
+			(project "PEC11R-4215F-S0024 Debounced"
 				(path "/163ec35e-ed3b-46f7-8463-44b486ecfeb9"
 					(reference "C2")
 					(unit 1)
@@ -7791,7 +7821,7 @@
 			(uuid "f62ce985-eedd-4196-9e25-92a1b07a0cc4")
 		)
 		(instances
-			(project "rot_enc_bourne_pec11r"
+			(project "PEC11R-4215F-S0024 Debounced"
 				(path "/163ec35e-ed3b-46f7-8463-44b486ecfeb9"
 					(reference "R4")
 					(unit 1)
@@ -7872,7 +7902,7 @@
 			(uuid "f46fa0e3-e718-42ea-97a4-b62da073029e")
 		)
 		(instances
-			(project "rot_enc_bourne_pec11r"
+			(project "PEC11R-4215F-S0024 Debounced"
 				(path "/163ec35e-ed3b-46f7-8463-44b486ecfeb9"
 					(reference "R3")
 					(unit 1)

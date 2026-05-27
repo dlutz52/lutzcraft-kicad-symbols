@@ -2,3 +2,5 @@ symbols/old-junk/
 footprints/*.xxx
 *.bak
 _*.*
+.history/
+.history/*
